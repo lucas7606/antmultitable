@@ -1,5 +1,6 @@
 <template>
   <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    很好
     <!-- Background of PhotoSwipe.
     It's a separate element as animating opacity is faster than rgba().-->
     <div class="pswp__bg"></div>

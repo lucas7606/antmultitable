@@ -1,5 +1,5 @@
 {
-  "name": "vue-pic-preview",
+  "name": "ant-multi-table",
   "version": "1.0.1",
   "description": "A Vue2 image preview plugin based on vue-preview",
   "main": "src/plugins/preview/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TianchengLee/vue-pic-preview.git"
+    "url": "git+https://github.com/lucas7606/antmultitable.git"
   },
   "dependencies": {
     "photoswipe": "^4.1.1"
@@ -18,10 +18,10 @@
     "preview",
     "photoswipe"
   ],
-  "author": "TianchengLee",
+  "author": "lucas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TianchengLee/vue-pic-preview/issues"
+    "url": "https://github.com/lucas7606/antmultitable/issues"
   },
-  "homepage": "https://github.com/TianchengLee/vue-pic-preview#readme"
+  "homepage": "https://github.com/lucas7606/antmultitable#readme"
 }

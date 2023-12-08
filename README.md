@@ -1,11 +1,19 @@
+<!--
+ * @Author: lucas 13811537606@163.com
+ * @Date: 2019-01-09 20:10:11
+ * @LastEditors: lucas 13811537606@163.com
+ * @LastEditTime: 2023-12-08 15:49:37
+ * @FilePath: /antmultitable/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Vue preview plugin
 
 > 一个Vue集成[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)图片预览插件
 
 > 此插件并没有提供新的功能, 只是在原vue-preview插件基础之上简化了操作, 无需使用`vue-preview`组件, 直接使用`img`标签绑定点击事件即可
 
-![](https://img.shields.io/npm/dm/vue-pic-preview.svg)
-![](https://img.shields.io/npm/v/vue-pic-preview.svg)
+![](https://img.shields.io/npm/dm/antmultitable.svg)
+![](https://img.shields.io/npm/v/antmultitable.svg)
 
 ## Requirements
 
@@ -18,7 +26,7 @@
 ## Installation
 
 ``` bash
-npm i vue-pic-preview -S
+npm i antmultitable -S
 ```
 
 ## Usage
@@ -40,8 +48,8 @@ npm i vue-pic-preview -S
 ### Install plugin
 
 ``` javascript
-import VuePreview from 'vue-pic-preview'
-Vue.use(VuePreview)
+import AntMultiTable from 'antmultitable'
+Vue.use(AntMultiTable)
 ```
 
 ### Examples
